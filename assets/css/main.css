@@ -33,11 +33,6 @@ body {
 	line-height: 1;
 }
 
-.food-log {
-	max-width: 100%;
-	height: auto;
-  }
-
 ol, ul {
 	list-style: none;
 }
